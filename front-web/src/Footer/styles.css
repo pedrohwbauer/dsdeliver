@@ -8,7 +8,11 @@
     line-height: 16px;
     text-align: center;
     color: #FFF;
+    position: absolute;
+    bottom: 0;
+    min-width: 100%;
   }
+  
   
   .footer-icons {
     margin-top: 10px;
