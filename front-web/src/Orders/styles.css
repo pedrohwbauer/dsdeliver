@@ -133,6 +133,7 @@
     font-size: 14px;
     line-height: 19px;
     letter-spacing: -0.015em;
+    word-wrap: break-word;
   
     color: var(--secondary-color);
   }
